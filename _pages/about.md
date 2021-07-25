@@ -17,13 +17,13 @@ My broad research interests include computer vision, machine learning, reinforce
 
 Research Experience
 ======
-- Research Assistant, Computing Science Department, Faculty of Science, University of Alberta, AB, Canada
+- Research Assistant, Computing Science Department, Faculty of Science, University of Alberta, Edmonton, AB, Canada
 - Machine Learning Research Intern, Borealis AI, Toronto, Canada
-- Research Assistant, Department of Electrical Engineering and Computer Science, Lassonde School of Engineering, York University, ON, Canada
+- Research Assistant, Department of Electrical Engineering and Computer Science, Lassonde School of Engineering, York University, Toronto, ON, Canada
 	- Thesis: Object Detection Frameworks for Particle Picking in Cryo-EM
-- Research Assistant, Department of Computer Engineering, Ferdowsi University of Mashhad
+- Research Assistant, Department of Computer Engineering, Ferdowsi University of Mashhad, Mashhad, Iran
 	- Project: User behavior analysis based on data mining techniques
-- Research Assistant at Department of Computer Science, Amirkabir University of technology
+- Research Assistant at Department of Computer Science, Amirkabir University of technology, Tehran, Iran
 	- Project: Structural alignment of RNA molecules with pseudo-knots
 
 Awards and Honors
