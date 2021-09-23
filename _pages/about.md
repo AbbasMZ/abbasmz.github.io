@@ -3,9 +3,9 @@ permalink: /
 title: "About me"
 excerpt: "Interested in Computer Vision, Machine Learning, Reinforcement Learning and their applications to solve problems. He/Him"
 author_profile: true
-<!-- redirect_from:  -->
-<!--   - /about/ -->
-<!--   - /about.html -->
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I'm a PhD student and Teaching Assistant in [Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). I am also a Research Assistant at [Professor Herbert Yang's lab](https://webdocs.cs.ualberta.ca/~yang/), specialized in Computer Vision and Computer Graphics. Before that, I was working as a Research Assistant with Professor Marcus Brubaker at the [Computational Vision and Imaging Lab](https://cvil.eecs.yorku.ca/) at [York University](https://www.yorku.ca/).
