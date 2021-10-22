@@ -28,6 +28,7 @@ Research Experience
 
 Awards and Honors
 ======
+- Huawei Doctoral Scholarship, University of Alberta and Huawei Technologies
 - Alberta Graduate Excellence Scholarship, University of Alberta
 - Doctoral Recruitment Scholarship, University of Alberta 
 - Graduate Fellowship, York University 
